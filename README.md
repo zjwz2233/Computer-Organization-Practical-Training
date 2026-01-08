@@ -1,1 +1,2 @@
 # Computer-Organization-Practical-Training
+这个文档里面包括了24指令的单周期cpu和用于参考的表
